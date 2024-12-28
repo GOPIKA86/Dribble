@@ -54,7 +54,7 @@ Publish the website in the LocalHost.
         }
         .gallery-img {
             width: 100%;
-            height: 200px;
+            height: 100px;
             object-fit: cover;
         }
     </style>
@@ -179,7 +179,7 @@ Publish the website in the LocalHost.
 
 
 ## OUTPUT:
-![alt text](<gopika/static/Screenshot (75).png>)
+![alt text](<gopika/Dripple/static/Screenshot (76).png>)
 
 
 ## RESULT:
